@@ -620,7 +620,7 @@
             "last_commit": "2026-02-06T09:05:13Z",
             "owner": "Effect-TS",
             "repo": "core",
-            "stars": 13143
+            "stars": 13145
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-02-03T17:17:11Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 14735
+            "stars": 14739
           }
         },
         {
@@ -844,7 +844,7 @@
             "last_commit": "2026-02-07T06:18:56Z",
             "owner": "mweststrate",
             "repo": "immer",
-            "stars": 28868
+            "stars": 28870
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2025-08-20T20:30:48Z",
             "owner": "supermacro",
             "repo": "neverthrow",
-            "stars": 7127
+            "stars": 7133
           }
         }
       ],
@@ -1945,10 +1945,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:16:33.288Z",
+    "last_updated": "2026-02-08T04:27:43.487Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "source_repository": "v1nvn/enhansome-fp-js",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome FP JS with stars"
   }
 }
