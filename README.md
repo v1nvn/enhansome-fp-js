@@ -1,4 +1,4 @@
-# Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,412 | 🐛 66 | 📅 2026-04-19 with stars
+# Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,700 | 🐛 68 | 📅 2026-04-19 with stars
 
 This is a curated list of awesome [functional programming](https://en.wikipedia.org/wiki/Functional_programming) code and learning resources for JavaScript. As a multi-paradigm programming language, JavaScript can be written in many styles. With these resources we want to help you to make better use of JavaScript’s support for writing programs in a *functional* way.
 
@@ -30,14 +30,14 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 ## Libraries
 
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) ⭐ 61,256 | 🐛 140 | 🌐 JavaScript | 📅 2026-04-22 – An instance of [Lodash](https://github.com/lodash/lodash) ⭐ 61,256 | 🐛 140 | 🌐 JavaScript | 📅 2026-04-22 with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
-* [Ramda](https://github.com/ramda/ramda) ⭐ 24,084 | 🐛 146 | 🌐 JavaScript | 📅 2026-01-22 – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
-* [ts-pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 14,959 | 🐛 66 | 🌐 TypeScript | 📅 2026-04-10 - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
-* [effect-ts](https://github.com/Effect-TS/core) ⭐ 13,932 | 🐛 516 | 🌐 TypeScript | 📅 2026-04-23 – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+* [Ramda](https://github.com/ramda/ramda) ⭐ 24,083 | 🐛 146 | 🌐 JavaScript | 📅 2026-01-22 – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
+* [ts-pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 14,963 | 🐛 67 | 🌐 TypeScript | 📅 2026-04-24 - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
+* [effect-ts](https://github.com/Effect-TS/core) ⭐ 13,936 | 🐛 518 | 🌐 TypeScript | 📅 2026-04-23 – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
 * [most](https://github.com/cujojs/most) ⭐ 3,496 | 🐛 50 | 🌐 JavaScript | 📅 2022-12-06 – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
-* [Rambda](https://github.com/selfrefactor/rambda) ⭐ 1,752 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-06 - A faster alternative to Ramda in under 10kB.
+* [Rambda](https://github.com/selfrefactor/rambda) ⭐ 1,752 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-24 - A faster alternative to Ramda in under 10kB.
 * [js-joda](https://github.com/js-joda/js-joda) ⭐ 1,657 | 🐛 15 | 🌐 JavaScript | 📅 2026-04-15 – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
 * [101](https://github.com/tjmehta/101) ⭐ 1,547 | 🐛 21 | 🌐 JavaScript | 📅 2022-01-06 – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.  -TS
-* [true-myth](https://github.com/true-myth/true-myth) ⭐ 1,330 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-23 A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+* [true-myth](https://github.com/true-myth/true-myth) ⭐ 1,331 | 🐛 14 | 🌐 TypeScript | 📅 2026-04-24 A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 * [fxts](https://github.com/marpple/FxTS) ⭐ 1,161 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-27 - Lazy evaluation and concurrency. +TS
 * [futil-js](https://github.com/smartprocure/futil-js) ⭐ 1,045 | 🐛 34 | 🌐 JavaScript | 📅 2024-05-02 - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 * [1-liners](https://github.com/1-liners/1-liners) ⭐ 801 | 🐛 28 | 🌐 JavaScript | 📅 2023-04-16 – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.  -TS.
@@ -54,7 +54,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [funcy](https://github.com/bramstein/funcy) ⭐ 249 | 🐛 1 | 🌐 JavaScript | 📅 2018-05-19 – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
 * [functional.js](https://github.com/functionaljs/functional-js) ⭐ 224 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-27 – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 * [Rambdax](https://github.com/selfrefactor/rambdax) ⭐ 223 | 🐛 0 | 🌐 JavaScript | 📅 2025-06-26 - Extended version of Rambda
-* [iter-tools](https://github.com/iter-tools/iter-tools) ⭐ 185 | 🐛 16 | 🌐 JavaScript | 📅 2025-06-02 - a rich toolset for working with iterables, both sync and async. +TS.
+* [iter-tools](https://github.com/iter-tools/iter-tools) ⭐ 186 | 🐛 16 | 🌐 JavaScript | 📅 2025-06-02 - a rich toolset for working with iterables, both sync and async. +TS.
 * [Ramda-extension](https://github.com/tommmyy/ramda-extension) ⭐ 167 | 🐛 33 | 🌐 HTML | 📅 2025-04-01 is set of utility point-free functions composed only from Ramda functions.
 * [TGrid](https://github.com/samchon/tgrid) ⭐ 166 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-18 - Grid Computing Framework, Network & Thread extension of [TSTL](https://github.com/samchon/tstl) ⭐ 628 | 🐛 3 | 🌐 TypeScript | 📅 2025-08-13, supporting RFC (Remote Function Call). +TS.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) ⭐ 150 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-01 – Javascript parser combinator implementation inspired by the Haskell's Parsec
@@ -103,8 +103,8 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 
 Write performant functional code by using the right data structures for the task.
 
-* [Immutable.js](https://github.com/facebook/immutable-js) ⭐ 33,066 | 🐛 125 | 🌐 TypeScript | 📅 2026-04-10 – Immutable persistent data collections.
-* [Immer](https://github.com/mweststrate/immer) ⭐ 28,923 | 🐛 61 | 🌐 JavaScript | 📅 2026-04-14 – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
+* [Immutable.js](https://github.com/facebook/immutable-js) ⭐ 33,067 | 🐛 125 | 🌐 TypeScript | 📅 2026-04-10 – Immutable persistent data collections.
+* [Immer](https://github.com/mweststrate/immer) ⭐ 28,926 | 🐛 61 | 🌐 JavaScript | 📅 2026-04-14 – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
 * [Lazy.js](https://github.com/dtao/lazy.js) ⭐ 5,980 | 🐛 59 | 🌐 JavaScript | 📅 2020-07-15 – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [Mori](https://github.com/swannodette/mori) ⭐ 3,369 | 🐛 64 | 🌐 Clojure | 📅 2026-03-06 – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [Baobab](https://github.com/Yomguithereal/baobab) ⭐ 3,159 | 🐛 49 | 🌐 JavaScript | 📅 2022-05-10 – persistent and optionally immutable data tree with cursors.
@@ -122,15 +122,15 @@ Write performant functional code by using the right data structures for the task
 
 Use the laws of math instead of always reinventing your own thing. Algebraic!
 
-* [Fantasy Land](https://github.com/fantasyland/fantasy-land) ⭐ 10,235 | 🐛 36 | 🌐 JavaScript | 📅 2024-11-10 – Not a library, but a specification of the Monad laws for libraries to follow.
-* [NeverThrow](https://github.com/supermacro/neverthrow) ⭐ 7,443 | 🐛 73 | 🌐 TypeScript | 📅 2026-02-14 - This package contains a `Result` type that represents either success (`Ok`) or failure (`Err`).
+* [Fantasy Land](https://github.com/fantasyland/fantasy-land) ⭐ 10,234 | 🐛 36 | 🌐 JavaScript | 📅 2024-11-10 – Not a library, but a specification of the Monad laws for libraries to follow.
+* [NeverThrow](https://github.com/supermacro/neverthrow) ⭐ 7,444 | 🐛 73 | 🌐 TypeScript | 📅 2026-02-14 - This package contains a `Result` type that represents either success (`Ok`) or failure (`Err`).
 * [Sanctuary](https://github.com/plaid/sanctuary) ⭐ 3,055 | 🐛 36 | 🌐 JavaScript | 📅 2024-11-10 – Sanctuary makes it possible to write safe code without null checks.  +CT, +TS.
 * [Fluture](https://github.com/Avaq/Fluture) ⭐ 2,496 | 🐛 12 | 🌐 JavaScript | 📅 2024-04-22 – A Future library with included control utilities, high performance and great error messages.
 * [purify](https://github.com/gigobyte/purify) ⭐ 1,601 | 🐛 2 | 🌐 TypeScript | 📅 2025-12-16 - Functional programming library for TypeScript focusing on ADTs.  +CT, +TS.
 * [crocks](https://github.com/evilsoft/crocks) ⭐ 1,597 | 🐛 69 | 🌐 JavaScript | 📅 2023-01-06 – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running. -TS.
 * [Static Land](https://github.com/rpominov/static-land) ⭐ 774 | 🐛 11 | 🌐 JavaScript | 📅 2019-10-29 – Specification similar to Fantasy Land but based on static methods rather than instance methods.
 * [daggy](https://github.com/puffnfresh/daggy) ⭐ 705 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-19 – Library for creating tagged constructors.
-* [immutable-ext](https://github.com/DrBoolean/immutable-ext) ⭐ 489 | 🐛 5 | 🌐 JavaScript | 📅 2019-02-10 – FantasyLand extensions for [Immutable.js](https://github.com/facebook/immutable-js) ⭐ 33,066 | 🐛 125 | 🌐 TypeScript | 📅 2026-04-10.
+* [immutable-ext](https://github.com/DrBoolean/immutable-ext) ⭐ 489 | 🐛 5 | 🌐 JavaScript | 📅 2019-02-10 – FantasyLand extensions for [Immutable.js](https://github.com/facebook/immutable-js) ⭐ 33,067 | 🐛 125 | 🌐 TypeScript | 📅 2026-04-10.
 * [Pratica](https://github.com/rametta/pratica) ⭐ 487 | 🐛 0 | 🌐 TypeScript | 📅 2024-06-05 - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
 * [union-type](https://github.com/paldepind/union-type) ⭐ 479 | 🐛 18 | 🌐 JavaScript | 📅 2019-06-05 – A small JavaScript library for defining and using union types.
 * [sweet-monads](https://github.com/JSMonk/sweet-monads) ⭐ 354 | 🐛 13 | 🌐 TypeScript | 📅 2024-11-18 - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
@@ -144,7 +144,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Lenses
 
-* [partial.lenses](https://github.com/calmm-js/partial.lenses) ⭐ 921 | 🐛 23 | 🌐 JavaScript | 📅 2021-11-18 – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+* [partial.lenses](https://github.com/calmm-js/partial.lenses) ⭐ 920 | 🐛 23 | 🌐 JavaScript | 📅 2021-11-18 – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 * [shades](https://github.com/jamesmcnamara/shades) ⭐ 417 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-13 – A lodash-inspired lens-like library for Javascript.
 * [lenses](https://github.com/DrBoolean/lenses) ⭐ 216 | 🐛 3 | 🌐 JavaScript | 📅 2015-09-28 – Composable [kmett](https://github.com/ekmett/lens) ⭐ 2,080 | 🐛 110 | 🌐 Haskell | 📅 2026-03-02 style lenses.
 * [ramda-lens](https://github.com/ramda/ramda-lens) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2017-06-13 – :ram: :mag\_right: Lens library built on Ramda.
@@ -185,7 +185,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Books
 
-* [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,839 | 🐛 90 | 🌐 JavaScript | 📅 2024-09-17 – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
+* [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,840 | 🐛 90 | 🌐 JavaScript | 📅 2024-09-17 – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
 * [Functional-Light JavaScript](https://github.com/getify/functional-light-js) ⭐ 16,775 | 🐛 26 | 🌐 JavaScript | 📅 2023-12-26 – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
 * [scriptum](https://github.com/kongware/scriptum/blob/master/README.md) ⭐ 381 | 🐛 0 | 🌐 JavaScript | 📅 2025-08-13 - a no-frills functional programming library and a online course based on it
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix), the “Six” edition. Starts with as little as possible about functions – but no less! – and builds up towards powerful combinators and decorators. A foundational book. By [Reginald  Braithwaite](https://github.com/raganwald) (2016)
@@ -196,7 +196,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Articles
 
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,635 | 🐛 27 | 📅 2023-10-17 – Jargon from the functional programming world explained in JavaScript.
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,636 | 🐛 27 | 📅 2023-10-17 – Jargon from the functional programming world explained in JavaScript.
 * [You don't (may not) need loops ➿](https://github.com/you-dont-need/You-Dont-Need-Loops) ⭐ 1,170 | 🐛 5 | 📅 2024-10-15 - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
 * [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) – An introduction to Functional Programming Concepts in JavaScript. Uses the Ramda library to teach the concepts of composition, pointfree style, and functors through the simplest of examples.
 * [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html) – Another introduction to Functional Programming in JavaScript with a focus on three key themes: computation as the application of functions, statelessness, avoiding side effects.
@@ -239,7 +239,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ### Examples and Exercises
 
 * [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,042 | 🐛 83 | 🌐 JavaScript | 📅 2020-10-08 – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
-* [cube-composer](https://github.com/sharkdp/cube-composer) ⭐ 2,031 | 🐛 10 | 🌐 PureScript | 📅 2022-12-08 – A puzzle game inspired by functional programming.
+* [cube-composer](https://github.com/sharkdp/cube-composer) ⭐ 2,032 | 🐛 10 | 🌐 PureScript | 📅 2022-12-08 – A puzzle game inspired by functional programming.
 * [functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture) ⭐ 1,444 | 🐛 9 | 🌐 JavaScript | 📅 2019-07-02 – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 * [Escape from Callback Mountain](https://github.com/justsml/escape-from-callback-mountain) ⭐ 256 | 🐛 12 | 🌐 JavaScript | 📅 2023-02-24 - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 * [FPJS-Class](https://github.com/loop-recur/FPJS-Class) ⭐ 94 | 🐛 0 | 🌐 JavaScript | 📅 2015-08-01 – Functional Programming learned through JavaScript.
