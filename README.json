@@ -23,7 +23,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-08T23:29:21Z",
+            "last_commit": "2026-05-09T17:17:28Z",
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 686
@@ -83,7 +83,7 @@
             "last_commit": "2026-05-08T01:37:34Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61220
+            "stars": 61223
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-05-08T07:39:35Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 14092
+            "stars": 14111
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2026-05-09T02:08:36Z",
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1337
+            "stars": 1338
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-05-09T04:38:00Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 14985
+            "stars": 14987
           }
         },
         {
@@ -820,10 +820,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-10T07:03:24Z",
+            "last_commit": "2026-05-09T20:09:43Z",
             "owner": "immutable-js",
             "repo": "immutable-js",
-            "stars": 33060
+            "stars": 33059
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-02-14T23:23:06Z",
             "owner": "supermacro",
             "repo": "neverthrow",
-            "stars": 7482
+            "stars": 7483
           }
         }
       ],
@@ -1324,7 +1324,7 @@
             "last_commit": "2026-05-07T10:39:43Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9385
+            "stars": 9384
           }
         },
         {
@@ -1536,7 +1536,7 @@
             "last_commit": "2024-09-17T06:18:40Z",
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23840
+            "stars": 23841
           }
         },
         {
@@ -1937,7 +1937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:15:31.911Z",
+    "last_updated": "2026-05-10T05:30:42.566Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "source_repository": "v1nvn/enhansome-fp-js",
     "source_repository_description": null,
