@@ -612,7 +612,7 @@
             "last_commit": "2026-05-08T07:39:35Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 14111
+            "stars": 14131
           }
         },
         {
@@ -638,7 +638,7 @@
             "last_commit": "2026-02-23T22:27:41Z",
             "owner": "mnasyrov",
             "repo": "ditox",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -684,10 +684,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T02:08:36Z",
+            "last_commit": "2026-05-10T20:48:07Z",
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1338
+            "stars": 1339
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-05-09T04:38:00Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 14987
+            "stars": 14988
           }
         },
         {
@@ -823,7 +823,7 @@
             "last_commit": "2026-05-09T20:09:43Z",
             "owner": "immutable-js",
             "repo": "immutable-js",
-            "stars": 33059
+            "stars": 33061
           }
         },
         {
@@ -836,7 +836,7 @@
             "last_commit": "2026-05-09T03:45:27Z",
             "owner": "immerjs",
             "repo": "immer",
-            "stars": 28931
+            "stars": 28932
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-03-06T23:41:00Z",
             "owner": "swannodette",
             "repo": "mori",
-            "stars": 3369
+            "stars": 3370
           }
         },
         {
@@ -1536,7 +1536,7 @@
             "last_commit": "2024-09-17T06:18:40Z",
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23841
+            "stars": 23840
           }
         },
         {
@@ -1906,7 +1906,7 @@
             "last_commit": "2020-10-01T01:46:47Z",
             "owner": "busypeoples",
             "repo": "functional-programming-javascript",
-            "stars": 305
+            "stars": 303
           }
         },
         {
@@ -1937,7 +1937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:30:42.566Z",
+    "last_updated": "2026-05-11T05:52:06.856Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "source_repository": "v1nvn/enhansome-fp-js",
     "source_repository_description": null,
