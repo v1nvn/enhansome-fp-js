@@ -612,7 +612,7 @@
             "last_commit": "2026-05-13T18:21:17Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 14168
+            "stars": 14177
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-05-09T04:38:00Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 14989
+            "stars": 14990
           }
         },
         {
@@ -823,7 +823,7 @@
             "last_commit": "2026-05-12T06:21:02Z",
             "owner": "immutable-js",
             "repo": "immutable-js",
-            "stars": 33060
+            "stars": 33059
           }
         },
         {
@@ -836,7 +836,7 @@
             "last_commit": "2026-05-09T03:45:27Z",
             "owner": "immerjs",
             "repo": "immer",
-            "stars": 28937
+            "stars": 28939
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-02-14T23:23:06Z",
             "owner": "supermacro",
             "repo": "neverthrow",
-            "stars": 7489
+            "stars": 7492
           }
         }
       ],
@@ -1880,7 +1880,7 @@
             "last_commit": "2024-04-22T09:00:07Z",
             "owner": "lucasviola",
             "repo": "awesome-functional-programming",
-            "stars": 1005
+            "stars": 1006
           }
         },
         {
@@ -1937,7 +1937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:41:03.266Z",
+    "last_updated": "2026-05-15T05:47:27.451Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "source_repository": "v1nvn/enhansome-fp-js",
     "source_repository_description": null,
